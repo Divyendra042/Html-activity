@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GYM To Train Fitness</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h2 class="logo"></h2>
+            <ul>
+                <a href="#"><li id="home">Home</li></a>
+                <a href="#"><li>Shop</li></a>
+                <a href="#"><li>About</li></a>
+                <a href="#"><li>Contact</li></a>
+                <a href="#"><li>FAQ</li></a>
+            </ul>
+        </nav>
+        <div class="banner">
+            <div class="intro">
+               <h2>Be Strong Fitness</h2>
+               <p>If you want something you've never had ,you must be willing to do something you have never done</p>
+               <button class="btn">Register Now</button>
+            </div>
+        </div>
+    </header>
+    <div class="row">
+        <div class="card" style="color: white;
+        background: var(--secondary-color);">
+        <h2>Workout</h2>
+<br>
+        <p><b>EQUPMENR REQUIRED:</b> Fully equipped gym<br>
+<br>
+            <b>REST PERIODS:</b> 90–180 seconds for main movements, 60–90 seconds for accessories<br>
+<br>      
+            <b>INTENSITY</b>: Select a weight that allows you to complete the prescribed reps while leaving about 2 solid reps in the tank.<br>
+<br>           
+            <b>DAY 1:</b> Full body<br>
+<br>
+            <i>Legs:</i>  Barbell back squats — 3 sets of 5 reps<br>
+            <i>Chest:</i> Flat barbell bench press — 3 set of 5 reps<br>
+            <i>Back:</i> Seated cable rows — 3 sets of 6–8 reps<br>
+            <i>Shoulders:</i> Seated dumbbell shoulder press — 3 sets of 6–8 reps<br>
+            Cable rope triceps pushdowns — 3 sets of 8–10 reps<br>
+            <i>Shoulders:</i> Lateral raises — 3 sets of 10–12 reps<br>
+            <i>Calves:</i> Seated calf raises — 3 sets of 10–12 reps<br>
+            <i>Abs:</i> Planks — 3 sets of 30-second holds<br>
+<br>
+            <b>DAY 2:</b> Full body<br>
+<br>
+            <i>Back/hamstrings:</i> barbell or trap bar deadlifts — 3 sets of 5 reps<br>
+            <i>Back:</i> pullups or lat pulldowns — 3 sets of 6–8 reps<br>
+            <i>Chest:</i> barbell or dumbbell incline press — 3 sets of 6–8 reps<br>
+            <i>Shoulders:</i> machine shoulder press — 3 sets of 6–8 reps<br>
+            <i>Biceps:</i> barbell or dumbbell biceps curls — 3 sets of 8–10 reps<br>
+            <i>Shoulders:</i> reverse machine fly — 3 sets of 10–12 reps<br>
+            <i>Calves:</i> standing calf raises — 3 sets of 10–12 reps<br>
+<br>
+            <b>DAY 3:</b> Full body<br>
+<br>
+            <i>Legs:</i> leg press — 3 sets of 5 reps<br>
+            <i>Back:</i> T-bar rows — 3 sets of 6–8 reps<br>
+            <i>Chest:</i> machine or dumbbell chest fly — 3 sets of 6–8 reps<br>
+            <i>Shoulders:</i> one-arm dumbbell shoulder press — 3 sets of 6–8 reps<br>
+            <i> Triceps:</i> dumbbell or machine triceps extensions — 3 sets of 8–10 reps<br>
+            <i>Shoulders:</i> cable or dumbbell front raises — 3 sets of 10–12 reps<br>
+            <i>Calves:</i> seated calf raises — 3 sets of 10–12 reps<br>
+            <i>Abs:</i> decline crunches — 3 sets of 10–12 reps<br>
+            </p>
+        </div>
+        <div class="card" style="background :white;">
+        <h2 style="color: var(--primary-color);">
+            Nutrition</h2>
+<br>
+        <p style="color: var(--secondary-color);">
+            <b>Gym Diet Plan Chart –</b> DAY 1<br>
+<br>
+            <i>Breakfast-</i> Banana Pancakes with<br>
+            Protein Shake<br>
+            <i>Lunch-</i>	Multigrain roti along with <br>palak chicken and Avocado bell pepper salad<br>
+            Pre-Workout Snack	Bananas<br>
+            <i>Dinner-</i>
+            (Post-Workout)	Brown rice, peas paneer curry, sprouts vegetable salad
+<br>
+            
+            <b>Gym Diet Plan Chart –</b> DAY 2<br>
+            <br>
+
+            <i>Breakfast-</i>	Oatmeal with Greek Yogurt & Seasonal fruits
+            Mango Juice<br>
+            <i>Lunch-</i>	Multigrain roti, fish curry, vegetable salad<br>
+            <i>Pre-Workout Snack-</i>	Toast with Jam<br>
+            <i>Dinner
+            (Post-Workout)-</i>	Broken wheat khichidi along with carrot raita, egg white, and vegetable salad<br>
+
+            <b>Gym Diet Plan Chart –</b> DAY 3<br>
+            <i>Breakfast-</i>	Poached Eggs
+            Whole Grain Toast
+            Protein Shake<br>
+            <i>Lunch-</i>	Quinoa upma, chicken and broccoli salad<br>
+            <i>Pre-Workout Snack-</i>	Mixed Nuts & Dried Fruits<br>
+            <i>Dinner
+            (Post-Workout)-</i>	Lean Beef and vegetable curry, brown rice, cucumber raita<br>
+            Baby Potatoes
+            Chocolate Milk<br>
+            <b>Gym Diet Plan Chart –</b> DAY 4<br>
+            <i>Breakfast-</i> with Honey
+            Apple Juice<br>
+            <i>Lunch</i> Chicken
+            Salad
+            Whole Grain Bread<br>
+            <i>Pre-Workout Snack-</i>	Toast with Peanut Butter<br>
+            <i>Dinner
+            (Post-Workout)</i>	Methi Chicken
+            Brown Rice
+            Broccoli
+            Protein Shake<br>
+            <b>Gym Diet Plan Chart –</b> DAY 5<br>
+            <br>
+
+            <i>Breakfast-</i>	Oatmeal with Greek Yogurt & Seasonal fruits
+            Mango Juice<br>
+            <i>Lunch-</i>	Multigrain roti, fish curry, vegetable salad<br>
+            <i>Pre-Workout Snack-</i>	Toast with Jam<br>
+            <i>Dinner
+            (Post-Workout)-</i>	Broken wheat khichidi along with carrot raita, egg white, and vegetable salad<br>
+            <b>Gym Diet Plan Chart –</b> DAY 6<br>
+            <br>
+
+            <i>Breakfast-</i>	Oatmeal with Greek Yogurt & Seasonal fruits
+            Mango Juice<br>
+            <i>Lunch-</i>	Multigrain roti, fish curry, vegetable salad<br>
+            </p>
+        </div>
+        <div class="card" style="background: red;">
+        <h2 style="color: white">Supplements</h2>
+<br>
+        <p style="color:white">
+            <b>Pre-Workout Supplements</b><br>
+<br>
+            Pre-workout supplements are designed to provide energy and aid endurance throughout a workout.<br>
+            They are typically taken 15-30 minutes before a workout, but can also be consumed during exercise.<br>
+             Below are common ingredients found in pre-workout supplements that the Academy of Nutrition<br> 
+             and Dietetics, Dietitians of Canada, and the American College of Sports Medicine have highlighted<br>
+             as having evidence-based uses in sports nutrition.<br>
+             These supplements have also been categorized as apparently safe and having strong evidence<br> 
+             to support efficacy by the International Society of Sports Nutrition.<br>
+<br>
+             <b>Beta-Alanine</b>
+              Beta-alanine is an amino acid that is produced in the liver and also found in fish, poultry, and meat.<br>
+              When dosed at 4–6g/day for 2–4 weeks, this supplement has been shown to improve exercise performance,<br>
+               particularly for high-intensity exercise lasting 1–4 minutes, such as high-intensity<br>
+                interval training (HIIT) or short sprints. It has also been shown to reduce neuromuscular fatigue,<br>
+                 particularly in older adults.<br>
+<br>
+             <b>Caffeine</b>
+             Caffeine is a stimulant that is often included in pre-workout supplements, as it has been shown to benefit<br>
+             athletic performance for short-term high intensity exercise and endurance-based activities.<br>
+              It is important to understand that these studies have been conducted with Olympic and competition athletes,<br>
+               and thus the average individual who exercises recreationally should consult with a doctor before<br>
+                using caffeine as a supplement.<br>
+<br>
+           <b>Creatine</b>
+           Creatine is a naturally occurring compound found in skeletal muscle that is synthesized in the body from amino <br>
+           acids and can be obtained from red meat and seafood. In the body,it helps produce adenosine triphosphate<br>
+            which provides energy for muscles. Creatine is a popular workout supplement marketed to <br>
+            increase athletic performance, especially for weight training. Research suggests that creatine supplementation.<br>
+<br>
+        </p>
+        </div>
+    </div>
+    
+</body>
+</html>
